@@ -207,7 +207,8 @@ h4 {
 
 .form span {
     background-color: #fff;
-    padding: 10px;
+    /* padding: 10px; */
+    padding: 0px 10px;
 }
 
 /*LEFT SIDE SIGN IN PAGE */
