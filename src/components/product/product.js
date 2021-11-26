@@ -84,7 +84,7 @@ function Product() {
                 // console.log(item);
                 return (
                   <Cards
-                    age='10+ Age'
+                    age='8+ Age'
                     show={show}
                     setaddtocart={setaddtocartclick}
                     setstatus={setaddtocartstatus}
@@ -112,7 +112,7 @@ function Product() {
                 // console.log(item);
                 return (
                   <Cards
-                    age='10+ Age'
+                    age='8+ Age'
                     show={show}
                     setaddtocart={setaddtocartclick}
                     setstatus={setaddtocartstatus}
