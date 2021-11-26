@@ -184,6 +184,7 @@
 .already-acc {
     text-align: center;
     cursor: pointer;
+    color: black;
     font-weight: bolder;
 }
 
@@ -302,7 +303,7 @@ h4 {
     }
 }
 
-@media screen and (max-width:800px) {
+@media screen and (max-width:900px) {
     .eyestyle {
         font-size: 30px;
     }
@@ -520,7 +521,7 @@ h4 {
         position: absolute;
         left: 0;
         bottom: -42px;
-        color: rgb(247 219 252);
+        color: black;
         font-size: 18px;
         text-align: center;
         width: 100%;
@@ -533,7 +534,7 @@ h4 {
         left: 0;
         width: 100%;
         font-size: 25px;
-        color: white;
+        color: #9f1dd7;
     }
 
     .right-signin h1 {

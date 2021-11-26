@@ -106,7 +106,7 @@ function Login() {
                     {/* left-part signup section  */}
                     <div className="left-signup">
                         <h1>WELCOME TO</h1>
-                        <h1>CODE AND BOTS</h1>
+                        <h1>CODESANDBOTS</h1>
                         <div className="image">
                             <img src={image} alt="" />
                         </div>
