@@ -228,7 +228,7 @@ function Login() {
                                         <i className="fab fa-twitter"></i>
                                     </div>
                                 </div> */}
-                                <p className="already-acc">already have an account?</p>
+                                <p className="already-acc" onClick={handleclick}>Create An Account</p>
                                 <h3 onClick={handleclick}>SIGN UP</h3>
                             </form>
                         </div>
